@@ -24,6 +24,6 @@ npm start
 3) Open app in browser.
 
 ```
-open http://localhost:5000
+open http://localhost:3000
 ```
 
