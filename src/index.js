@@ -3,7 +3,7 @@ import './index.scss';
 import _ from 'lodash';
 import ReactDOM from 'react-dom';
 
-const uniqueCards = ['michael', 'mark', 'andrew', 'adam', 'ahmet'];
+const uniqueCards = ['michael', 'mark', 'andrew', 'adam', 'ahmet', 'david'];
 const numCardsToMatch = 2;
 
 class MemoryGame extends React.Component {
